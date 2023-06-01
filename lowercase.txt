@@ -1035,7 +1035,7 @@ Take it easy. Take it easy.
 
 Come on.
 
-Ok, Frankie.
+OK, Frankie.
 
 Get in the ( … )in' car!
 
@@ -1382,3 +1382,5 @@ You understand?
 It's all right. It's all right.
 
 The kid's over here.
+
+
