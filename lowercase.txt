@@ -1,3 +1,5 @@
+-- Captioning made possible by VITAC
+
 [THUMP]
 
 What the ( … ) is that?
