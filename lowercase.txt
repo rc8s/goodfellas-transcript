@@ -1,4 +1,4 @@
--- Captioning made possible by VITAC
+-- Captioning made possible by VITAC --
 
 [THUMP]
 
