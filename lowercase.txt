@@ -1,4 +1,5 @@
--- Captioning made possible by VITAC --
+-- Captioning
+made possible by VITAC --
 
 [THUMP]
 
@@ -2698,18 +2699,14 @@ does not stay out like this.
 -[LAUGHING]
 -TOMMY: What's wrong with you?
 
--Henry.
--Shut up.
-
--You're not normal. She's right.
--Shut up. No.
+You're not normal. She's right.
 
 What's wrong with you, Henry?
 
 -What kind of person are you?
 -Tommy.
 
--Tommy, let's go.
+-Tommy, come on. Let's go.
 -What is the matter with you?
 
 TOMMY: What the ( … )
@@ -4189,6 +4186,8 @@ Dance! Dance! Yahoo, ya mother( … )er!
 
 Come on, you mother--
 
+[GUNSHOTS]
+
 Dance, you little prick.
 
 Now he's movin'.
@@ -4364,6 +4363,8 @@ You gonna let this
 
 What's the matter with you?
 What's the world comin' to?
+
+[GUNSHOTS]
 
 That's what the
 ( … )in' world is comin' to.
@@ -8281,4 +8282,5 @@ SID VICIOUS: ♪ Regrets ♪
 
 [ERIC CLAPTON'S "LAYLA" PLAYS]
 
--- Captioning made possible by VITAC --
+-- Captioning
+made possible by VITAC --
