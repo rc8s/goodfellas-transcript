@@ -1,5 +1,4 @@
--- Captioning
-made possible by VITAC --
+-- Captions --
 
 [THUMP]
 
@@ -4005,9 +4004,9 @@ her boss a little bit.
 whatever she wants to do!
 
 -You got it? Got it?!
--I got it.
+-I got it!
 
-Run to who you're gonna run to. You understand?
+Run to who you better run to. You understand?
 
 Hang up once more,
 and you're gonna deal with me.
@@ -8217,5 +8216,4 @@ SID VICIOUS: ♪ Regrets ♪
 
 [ERIC CLAPTON'S "LAYLA" PLAYS]
 
--- Captioning
-made possible by VITAC --
+-- Captions by VITAC --
