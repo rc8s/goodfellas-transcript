@@ -1,6 +1,6 @@
 -- Captions by VITAC --
 
-[THUMP]
+(THUMP)
 
 What the ( … ) is that?
 
@@ -19,7 +19,7 @@ Wha--? No.
 What the ( … ).
 You better pull over and see.
 
-[THUMPING]
+(THUMPING)
 
 No, no, no, Tommy.
 
@@ -185,8 +185,8 @@ and let me park their Cadillacs.
 
 I mean, here I am, this little kid.
 
-I can't even see over
-the steering wheel,
+I can't even see
+over the steering wheel,
 
 and I'm parking Cadillacs.
 
@@ -438,7 +438,7 @@ That's it. That's all it is.
 They're like the police
 department for wiseguys.
 
-[GLASS SHATTERS]
+(GLASS SHATTERS)
 
 People looked at me differently.
 
@@ -495,7 +495,7 @@ They shot me! Help!
 
 Help! They shot me!
 
-[ITALIAN OPERA PLAYING]
+(ITALIAN OPERA PLAYING)
 
 TUDDY: Henry, shut the door.
 Shut the door.
@@ -722,7 +722,7 @@ No. No, you don't understand!
 COP 1: No, you don't understand.
 Store's closed.
 
-[ITALIAN OPERA PLAYING]
+(ITALIAN OPERA PLAYING)
 
 Henry got pinched.
 
@@ -784,7 +784,7 @@ MAN: Hey, here he is! Here he is!
 
 Oh, you broke your cherry!
 
-[ALL CHEERING]
+(ALL CHEERING)
 
 Congratulations, kid!
 
@@ -1103,7 +1103,7 @@ I said, "All right,
 I'll tell you somethin'.
 
 -Go ( … ) your mother."
--[LAUGHTER]
+-(LAUGHTER)
 
 Bing, pow, boom, bing!
 
@@ -1173,7 +1173,7 @@ J-Just...
 -What?
 -Just...you know.
 
-You're funny. [CHUCKLES] That's all.
+You're funny. (CHUCKLES) That's all.
 
 You mean-- Wait, let me understand this,
 
@@ -1218,7 +1218,7 @@ I wonder about you sometimes, Henry.
 
 You may fold under questioning.
 
-[LAUGHTER]
+(LAUGHTER)
 
 HENRY: Jesus Christ.
 
@@ -1313,7 +1313,7 @@ asked me to christen his kid.
 Yeah, all right,
 the 7,000 I charged him!
 
-[HENRY LAUGHING]
+(HENRY LAUGHING)
 
 You really are a funny guy!
 
@@ -1659,7 +1659,7 @@ I'm tryin' to bang this ( … )in' broad.
 
 You wanna help me out?
 
-[STAMMERING]
+(STAMMERING)
 
 -HENRY: What?
 -I don't understand you!
@@ -1681,7 +1681,7 @@ you mother( … )er!
 You with your ( … )ing mouth!
 
 -Me? You mother--
--[TIRES SCREECHING]
+-(TIRES SCREECHING)
 
 I had a meeting with Tuddy
 around 11 o'clock,
@@ -1721,7 +1721,7 @@ Go where, Henry? We just got here.
 
 I got that thing. I gotta go.
 
-[WHISPERS] Oh, I forgot.
+(WHISPERS) Oh, I forgot.
 
 Wait a couple of minutes.
 We'll all leave together.
@@ -1750,7 +1750,7 @@ a lot better with Manischewitz,
 
 but it'd look funny on my table.
 
-[LAUGHS]
+(LAUGHS)
 
 -Ready?
 -Henry, lighten up.
@@ -1795,7 +1795,7 @@ That's what I'm worried about.
 But I made Tommy
 take me looking for him.
 
-[TIRES SCREECHING]
+(TIRES SCREECHING)
 
 -MAN: Son of a ( … ).
 -Tommy, what the ( … )?
@@ -1809,7 +1809,7 @@ Who the hell do you think you are?
 Frankie Valli or some kind of big shot?
 
 -HENRY: Take it easy.
--[LAUGHTER]
+-(LAUGHTER)
 
 Slow down.
 Slow down, all right? I forgot.
@@ -1863,7 +1863,7 @@ just like Liz Taylor's.
 
 At least that's what I thought.
 
-[DOOR OPENS]
+(DOOR OPENS)
 
 Hello, Henry.
 
@@ -1919,7 +1919,7 @@ I like going this way.
 
 It's better than waiting in the line.
 
-[LAUGHS]
+(LAUGHS)
 
 ♪ When he danced, he held me tight ♪
 
@@ -1934,7 +1934,7 @@ Here you go.
 
 ♪ And then he kissed me ♪
 
-[CHUCKLES]
+(CHUCKLES)
 
 How you doing, Gino?
 
@@ -2031,7 +2031,7 @@ like you're in construction.
 
 Ah, I'm a union delegate.
 
-[DRUMROLL]
+(DRUMROLL)
 
 MAN: And now, ladies and gentlemen,
 
@@ -2041,18 +2041,18 @@ the king of the one-liners,
 
 Henny Youngman!
 
-[CHEERS AND APPLAUSE]
+(CHEERS AND APPLAUSE)
 
 How are you all? I'm glad to be here.
 
 Take my wife, please.
 
-[AUDIENCE LAUGHS]
+(AUDIENCE LAUGHS)
 
 I take my wife everywhere,
 but she finds her way home.
 
-[AUDIENCE LAUGHS]
+(AUDIENCE LAUGHS)
 
 HENNY YOUNGMAN:
 I said, "Where do you want
@@ -2070,7 +2070,7 @@ Gave a guy six months to live.
 Couldn't pay his bill.
 Gave him another six months.
 
-[LAUGHTER AND APPLAUSE]
+(LAUGHTER AND APPLAUSE)
 
 I love this crowd!
 
@@ -2087,11 +2087,11 @@ HENRY: Thirty-five, forty,
 forty-five, fifty...
 
 sixty thousand.
--[LAUGHTER]
+-(LAUGHTER)
 
 It's gonna be a good summer.
 
-[ALL LAUGHING]
+(ALL LAUGHING)
 
 Fantastic.
 
@@ -2110,7 +2110,7 @@ you got it in Vegas playing craps.
 -Yeah? Yeah? Yeah?
 -All right. Yeah.
 
-[ALL LAUGHING]
+(ALL LAUGHING)
 
 WAITER: Check, sir.
 
@@ -2265,7 +2265,7 @@ Stop it now, will ya?
 You got money for that
 ( … )in' commercial of yours.
 
--[HENRY LAUGHING]
+-(HENRY LAUGHING)
 -( … )in' commercial--
 You don't got my money?
 
@@ -2280,7 +2280,7 @@ I'll ( … )in' kill you.
 you ( … )in' ( … )sucker!
 
 -I'm sorry.
--[TELEPHONE RINGING]
+-(TELEPHONE RINGING)
 
 Pay me my money!
 
@@ -2333,10 +2333,10 @@ All right.
 -I promise to you. I-I promise.
 -Give me today!
 
-[TIRES SCREECHING]
+(TIRES SCREECHING)
 
 -What happened?
--[CRYING]
+-(CRYING)
 
 What happened?
 
@@ -2365,7 +2365,7 @@ And then he got really angry.
 
 He pushed me out of the car.
 
-[TURNS OFF ENGINE]
+(TURNS OFF ENGINE)
 
 You sure you're all right?
 
@@ -2376,7 +2376,7 @@ Why don't you go inside
 
 and get yourself together, clean up.
 
-[CAR DOOR OPENS, CLOSES]
+(CAR DOOR OPENS, CLOSES)
 
 What do you want, ( … )o?
 You want something? Huh?
@@ -2385,7 +2385,7 @@ Ohh! Ah! ( … )!
 
 What are you doing?
 
-[GRUNTING]
+(GRUNTING)
 
 ( … )! Ugh! Ugh!
 
@@ -2393,13 +2393,13 @@ I swear on my ( … )ing mother,
 
 if you touch her again, you're dead!
 
-[GROANS]
+(GROANS)
 
 ( … )!
 
 Don't shoot!
 
-[BRUCE GROANS]
+(BRUCE GROANS)
 
 Here. Hide this.
 
@@ -2425,18 +2425,18 @@ Mazel tov!
 
 ALL: Mazel tov.
 
-[APPLAUSE]
+(APPLAUSE)
 
 ♪ Will you take part in ♪
 
 ♪ My life ♪
 
 -♪ My love? ♪
--[WHISPERING INDISTINCTLY]
+-(WHISPERING INDISTINCTLY)
 
 ♪ That is my dream ♪
 
-[INDISTINCT CHATTER]
+(INDISTINCT CHATTER)
 
 Vinnie.
 
@@ -2466,7 +2466,7 @@ Frankie, how you been?
 
 Hey, Morrie, listen.
 
-[SPEAKING ITALIAN]
+(SPEAKING ITALIAN)
 
 KAREN: It was like he had two families.
 
@@ -2529,7 +2529,7 @@ WOMAN: She's such a beautiful bride.
 
 Paulie, you shouldn't have.
 
-[SPEAKING ITALIAN]
+(SPEAKING ITALIAN)
 
 Welcome to the family, honey.
 
@@ -2558,7 +2558,7 @@ the envelopes in it,
 
 all the money.
 
-Oh. [LAUGHS]
+Oh. (LAUGHS)
 
 Don't worry about that.
 Nobody's gonna steal that here.
@@ -2637,9 +2637,9 @@ The man hasn't been able
 to digest a decent meal
 
 in six weeks.
--[DOOR CLOSES]
+-(DOOR CLOSES)
 
-[VEHICLE APPROACHING]
+(VEHICLE APPROACHING)
 
 -Henry, where--
 -Where were you? Why didn't you call?
@@ -2655,9 +2655,9 @@ does not stay out like this.
 -Mom! Stop it! No!
 -Normal people don't act like this!
 
-[CHUCKLES]
+(CHUCKLES)
 
--[LAUGHING]
+-(LAUGHING)
 -TOMMY: What's wrong with you?
 
 You're not normal. She's right.
@@ -2808,7 +2808,7 @@ if you had to go to prison?
 
 Karen!
 
--[LAUGHING]
+-(LAUGHING)
 -Mickey said that Jeannie's husband--
 
 You know why Jeannie's husband
@@ -2893,7 +2893,7 @@ TOMMY: Here's your hat, you ( … ).
 -FRANKIE: See you guys at the diner.
 -TOMMY: I'm ridin' shotgun.
 
-[HENRY LAUGHING] Did you see him
+(HENRY LAUGHING) Did you see him
 give it right over?
 
 TOMMY: Come on. Let's go.
@@ -2901,7 +2901,7 @@ TOMMY: Come on. Let's go.
 Back to the hideout
 and split up the loot, you sidewinder!
 
-Yeee-haw! [LAUGHING]
+Yeee-haw! (LAUGHING)
 
 We were all so very close.
 
@@ -2962,7 +2962,7 @@ a few bucks to keep things quiet
 
 no matter what they found.
 
-[WHISTLING]
+(WHISTLING)
 
 I always asked them
 if they wanted coffee.
@@ -3066,7 +3066,7 @@ No.
 
 Uh-- Oh...
 
--[ZIPPER RASPS]
+-(ZIPPER RASPS)
 -All right.
 
 ♪ I always dreamed the boy
@@ -3172,7 +3172,7 @@ if I was gonna break your ( … ),
 I'd tell you to go home
 and get your shine box.
 
-[LAUGHTER]
+(LAUGHTER)
 
 Oh, this kid was--
 This kid was great. They--
@@ -3236,7 +3236,7 @@ Okay. Salute.
 Now go home and get your
 ( … )in' shine box.
 
-[BREAKS GLASS] Mother( … )in' mutt!
+(BREAKS GLASS) Mother( … )in' mutt!
 
 You-- You ( … )in' piece of ( … )!
 
@@ -3338,7 +3338,7 @@ what I got to get.
 
 What's this?
 
-[GRUNTS]
+(GRUNTS)
 
 JIMMY: Get the door!
 
@@ -3350,7 +3350,7 @@ JIMMY: Get the door!
 
 ♪ Below the ocean ♪
 
-[BATTS GROANS]
+(BATTS GROANS)
 
 ♪ Where... ♪
 
@@ -3576,11 +3576,11 @@ So she says to him,
 
 "Shut up! You're always talking."
 
-[LAUGHTER]
+(LAUGHTER)
 
 But in Italian, it sounds much nicer.
 
-[SPEAKING ITALIAN] Yeah.
+(SPEAKING ITALIAN) Yeah.
 
 That's it.
 
@@ -3623,19 +3623,19 @@ It looks the same.
 
 Looks like somebody we know.
 
-[JIMMY AND TOMMY LAUGHING]
+(JIMMY AND TOMMY LAUGHING)
 
 Ping, without the beard. No, it's him.
 
-Oh! [LAUGHING]
+Oh! (LAUGHING)
 
 It's him! Oh!
 
 Oh, Marone!
 
-[THUMP]
+(THUMP)
 
-[THUMP]
+(THUMP)
 
 What the ( … ) is that?
 
@@ -3705,7 +3705,7 @@ Saturday night was for wives,
 but Friday night at the Copa
 was always for the girlfriends.
 
-[FRANKIE SPEAKING ITALIAN]
+(FRANKIE SPEAKING ITALIAN)
 
 And last week we saw Sammy Davis Jr.
 
@@ -3752,7 +3752,7 @@ He's got personality.
 -Oh, of course. Yeah.
 -Personality?
 
-[SPEAKS ITALIAN] A guy with personality.
+(SPEAKS ITALIAN) A guy with personality.
 
 He's very talented.
 
@@ -3867,7 +3867,7 @@ Okay, everybody, let's eat.
 
 ♪ Whatever happened to ♪
 
-[OVERLAPPING CHATTER]
+(OVERLAPPING CHATTER)
 
 ♪ The boy that I once knew ♪
 
@@ -3906,7 +3906,7 @@ We gotta get it out right away.
 
 ♪ The night was so exciting ♪
 
-[VOMITING]
+(VOMITING)
 
 TOMMY: Hey, Henry, Henry,
 hurry up, will ya?
@@ -3915,8 +3915,8 @@ My mother's gonna make
 
 some fresh peppers and sausage for us.
 
--[JIMMY LAUGHING]
--[RETCHING]
+-(JIMMY LAUGHING)
+-(RETCHING)
 
 JIMMY: Oh, hey, Henry, Henry,
 
@@ -3927,7 +3927,7 @@ Very funny, guys.
 Oh, here's a leg.
 
 -Here's a wing.
--[BOTH LAUGHING]
+-(BOTH LAUGHING)
 
 What do you like,
 the leg or the wing, Henry?
@@ -3937,7 +3937,7 @@ for the old hearts and lungs?
 
 Oh, that's so bad.
 
-[COUGHS]
+(COUGHS)
 
 KAREN: Ugh! Come on, girls. Come on.
 
@@ -3991,7 +3991,7 @@ Nice.
 
 Oh, I love the floral arrangement.
 
-[SNIFFS] French. Hm.
+(SNIFFS) French. Hm.
 
 Janice and I were having so much fun,
 
@@ -4011,9 +4011,9 @@ Run to who you better run to. You understand?
 Hang up once more,
 and you're gonna deal with me.
 
-[SQUEALS]
+(SQUEALS)
 
-[LAUGHTER]
+(LAUGHTER)
 
 WOMAN: Come on. Get off of her.
 
@@ -4131,7 +4131,7 @@ Dance! Dance! Yahoo, ya mother( … )er!
 
 Come on, you mother--
 
-[GUNSHOTS]
+(GUNSHOTS)
 
 Dance, you little prick.
 
@@ -4212,7 +4212,7 @@ No! I'm telling you,
 I look in your face,
 and I know that you're lying!
 
-[SCREAMS]
+(SCREAMS)
 
 -Get out!
 -Shut up.
@@ -4232,9 +4232,9 @@ That's all you're good for!
 
 Get out of my life! I can't stand you!
 
-[HENRY YELLING, LAUGHING]
+(HENRY YELLING, LAUGHING)
 
-Goodbye, Jimmy. [LAUGHS]
+Goodbye, Jimmy. (LAUGHS)
 
 JIMMY: Spider, what's your rush?
 
@@ -4275,7 +4275,7 @@ Why don't you go ( … ) yourself, Tommy?
 
 Oh!
 
-[LAUGHTER]
+(LAUGHTER)
 
 Did I just ( … )in' hear right?
 
@@ -4306,7 +4306,7 @@ You gonna let this
 What's the matter with you?
 What's the world comin' to?
 
-[GUNSHOTS]
+(GUNSHOTS)
 
 That's what the
 ( … )in' world is comin' to.
@@ -4372,7 +4372,7 @@ I'll dig a ( … )in' hole.
 
 You know, where are the shovels?
 
--[BUZZING]
+-(BUZZING)
 -JANICE: Hello.
 
 -KAREN: Hello?
@@ -4381,7 +4381,7 @@ You know, where are the shovels?
 This is Karen Hill.
 I want to talk to you.
 
--[CLICK]
+-(CLICK)
 -Hello? Hello?
 
 Don't hang up on me!
@@ -4407,7 +4407,7 @@ Yes, I want you to know, sir,
 
 that you have a ( … ) living in 2-R.
 
-[WHISPERS] ( … ).
+(WHISPERS) ( … ).
 
 Rossi. Janice Rossi, do you hear me?
 
@@ -4415,13 +4415,13 @@ He's my husband.
 
 Get your own goddamn man!
 
-[WHISPERING] Wake up, Henry.
+(WHISPERING) Wake up, Henry.
 
-[CLICKS]
+(CLICKS)
 
 Karen.
 
-[SNIFFLES]
+(SNIFFLES)
 
 What are you doing?
 
@@ -4435,11 +4435,11 @@ to kill the both of you.
 Karen, take it easy.
 
 -Okay?
--[NORMAL VOICE] Do you love her?
+-(NORMAL VOICE) Do you love her?
 
 Do you?
 
-[SOBBING] Do you?
+(SOBBING) Do you?
 
 Karen.
 
@@ -4487,13 +4487,13 @@ Baby...
 
 come on.
 
-[SOBBING]
+(SOBBING)
 
 Shh.
 
 Shh.
 
-[SCREAMS]
+(SCREAMS)
 
 What, are you ( … )in' crazy, Karen?
 
@@ -4516,13 +4516,13 @@ How does it feel? Huh?
 -Huh? How does it feel, Karen?
 -I'm sorry.
 
-[SOBS]
+(SOBS)
 
-[CLATTER, GLASS BREAKS]
+(CLATTER, GLASS BREAKS)
 
-[DOOR CLOSES]
+(DOOR CLOSES)
 
-I'm sorry! [SOBBING]
+I'm sorry! (SOBBING)
 
 Hey. Hey. How you doing?
 
@@ -4640,7 +4640,7 @@ you were first married.
 There's gonna be romance.
 It's gonna be beautiful.
 
--[SCOFFS]
+-(SCOFFS)
 -I know how to talk
 to her, especially to her.
 
@@ -4683,10 +4683,10 @@ She'll never divorce him.
 She'll kill him,
 but she won't divorce him.
 
--[CHUCKLING]
+-(CHUCKLING)
 -PAULIE: Yeah. Yeah.
 
-[GRUNTING]
+(GRUNTING)
 
 You gonna pay it? Huh?
 
@@ -4748,7 +4748,7 @@ Of all the ( … )ing people!
 She gave up everybody--
 Jimmy, me, even her brother.
 
-TYPIST [CRYING]: He's friends of him.
+TYPIST (CRYING): He's friends of him.
 
 HENRY: Took the jury six hours
 to bring us in guilty.
@@ -4763,7 +4763,7 @@ You will now be turned over
 to the United States
 Attorney General's office.
 
-[GAVEL BANGS]
+(GAVEL BANGS)
 
 MORRIE: Well, sweet Henry. Toast, guys.
 
@@ -4777,21 +4777,21 @@ All the best.
 
 We'll watch the home front while you're gone.
 
-[SPEAKS ITALIAN]
+(SPEAKS ITALIAN)
 
 Say hello to those ( … )-job hacks, huh?
 
 Don't forget-- mother( … ) them
 every chance you get, huh?
 
-[LAUGHTER]
+(LAUGHTER)
 
 HENRY: I'll call you, uh,
 when I get a chance.
 
-[CAR DOOR OPENS]
+(CAR DOOR OPENS)
 
-[CLOSES]
+(CLOSES)
 
 Now take me to jail.
 
@@ -4967,7 +4967,7 @@ Johnny?
 
 PAULIE: Read 'em and weep.
 
-[PAULIE LAUGHING]
+(PAULIE LAUGHING)
 
 What are you doing?
 
@@ -4991,7 +4991,7 @@ Nope, that's it.
 -Have a good weekend. Thanks.
 -Thank you, Henry.
 
-[DOOR BUZZER SOUNDING]
+(DOOR BUZZER SOUNDING)
 
 Ms. Hill, come here.
 
@@ -5032,7 +5032,7 @@ in for you every week.
 Let her fight with
 these ( … )s every week!
 
--[CRYING]
+-(CRYING)
 -Look what you're doing! Stop it!
 
 -Shh.
@@ -5050,7 +5050,7 @@ Let her do it.
 -Let her do it!
 -Stop it!
 
-[RUTH CRYING]
+(RUTH CRYING)
 
 Shh. Shh. Shh.
 
@@ -5186,7 +5186,7 @@ PAULIE: You know, he's an arrogant guy.
 
 He didn't do the right thing.
 
-[INDISTINCT CHATTER]
+(INDISTINCT CHATTER)
 
 What? What do you want?
 
@@ -5360,7 +5360,7 @@ KAREN: Four and a half months of dirt.
 -It's so good.
 -I did it.
 
-[LAUGHS]
+(LAUGHS)
 
 Do you love it?
 
@@ -5533,7 +5533,7 @@ Whoa. That's what the stewardess said.
 
 Yeah.
 
-[BOTH LAUGHING]
+(BOTH LAUGHING)
 
 ♪ Well, I hope we're not too messianic ♪
 
@@ -5592,9 +5592,9 @@ No, you don't have to go anywhere.
 
 Make 'em wait.
 
-[NEWS THEME PLAYS ON RADIO]
+(NEWS THEME PLAYS ON RADIO)
 
-ANNOUNCER [ON RADIO]:
+ANNOUNCER (ON RADIO):
 Nobody knows for sure
 
 just how much was taken
@@ -5608,9 +5608,9 @@ The FBI says $2 million.
 Port Authority Police say $4 million.
 
 -The city cops say 5...
--[SCREAMING]
+-(SCREAMING)
 
-[LAUGHING]
+(LAUGHING)
 
 Jimmy!
 
@@ -5792,7 +5792,7 @@ Bring it where you got it before.
 I don't care. You understand?
 Get it outta here!
 
-[SPEAKING ITALIAN]
+(SPEAKING ITALIAN)
 
 Shut the ( … ) up, and let's go.
 
@@ -5885,7 +5885,7 @@ We did it. We did it.
 
 We did it.
 
--[KNOCKING] Hey, Jimmy.
+-(KNOCKING) Hey, Jimmy.
 -Yeah.
 
 Jimmy?
@@ -5942,9 +5942,9 @@ the heist of a lifetime.
 Six million in cash.
 More than enough to go around.
 
-[KNOCKING ON DOOR]
+(KNOCKING ON DOOR)
 
-[KNOCKING]
+(KNOCKING)
 
 TOMMY: Yo, Stacks! Open up!
 
@@ -5968,14 +5968,14 @@ What do I look like, a ( … )in' caterer?
 Come on. Frankie'll make coffee.
 Go ahead, Frankie. Make coffee.
 
-[FRANKIE SPEAKING ITALIAN]
+(FRANKIE SPEAKING ITALIAN)
 
 I thought you had
 one of your ( … )es in here.
 
 Yeah, I did. Where the ( … ) is she?
 
-[CHUCKLES]
+(CHUCKLES)
 
 You always got these
 hot books around, though,
@@ -5994,14 +5994,14 @@ Yeah, you're always ( … )in' late.
 You'll be late for
 your own ( … )in' funeral.
 
-[THREE GUNSHOTS]
+(THREE GUNSHOTS)
 
 What the ( … ) you lookin' at?
 
 Come on, make that coffee
 to go. Let's go.
 
-[FRANKIE SPEAKING ITALIAN]
+(FRANKIE SPEAKING ITALIAN)
 
 What the ( … ) you doin'?
 It's a joke. A joke.
@@ -6109,7 +6109,7 @@ He's gonna be a boss.
 Tommy!
 
 -I can't believe it.
--[BOTH LAUGHING]
+-(BOTH LAUGHING)
 
 I'm really happy for you.
 That's great. Congratulations.
@@ -6178,8 +6178,8 @@ and down the mountainside ♪
 ♪ The summer's gone,
 and all the roses die ♪
 
-[CREAM'S "SUNSHINE
-OF YOUR LOVE" PLAYING]
+(CREAM'S "SUNSHINE
+OF YOUR LOVE" PLAYING)
 
 ♪ It's getting near dawn ♪
 
@@ -6268,7 +6268,7 @@ He says, "Aghh! Aghh!"
 
 I said, "Don't say it."
 
-[LAUGHTER]
+(LAUGHTER)
 
 "Ah... Ah... Ah... Ah...
 
@@ -6279,7 +6279,7 @@ What are you gonna do?
 
 I ( … )in' fly at him.
 
-[DROWNED OUT BY LAUGHTER]
+(DROWNED OUT BY LAUGHTER)
 
 Forget about tonight.
 Forget about tonight.
@@ -6346,7 +6346,7 @@ we were shaving up in Boston?
 
 Nunzio up in the--
 
-[GRUNTS]
+(GRUNTS)
 
 Aah!
 
@@ -6377,7 +6377,7 @@ At Charlie's, not here!
 Where the ( … ) are you
 gonna chop him here?
 
-[MUTTERING IN ITALIAN]
+(MUTTERING IN ITALIAN)
 
 Come on! What are you doing?
 Get the ( … ) outta here!
@@ -6393,7 +6393,7 @@ What, ( … )in' warm it up?
 
 Get outta here!
 
--[KNOCKING ON DOOR]
+-(KNOCKING ON DOOR)
 -Who is it?
 
 KAREN: It's Belle. It's Belle. Open up.
@@ -6452,16 +6452,16 @@ the satisfaction, the ( … )s.
 
 Come on, ( … )os. Let's go for a ride.
 
-[HENRY LAUGHING]
+(HENRY LAUGHING)
 
 Keep 'em up all night.
 
 -All right. I'll see you later.
 -See you later.
 
-[TIRES SCREECHING]
+(TIRES SCREECHING)
 
-[ERIC CLAPTON'S "LAYLA" PLAYING]
+(ERIC CLAPTON'S "LAYLA" PLAYING)
 
 Jimmy was cutting every link
 between himself and the robbery,
@@ -6503,7 +6503,7 @@ Still, months after the robbery,
 
 they were finding bodies all over.
 
-[CAMERA SHUTTERS CLICKING]
+(CAMERA SHUTTERS CLICKING)
 
 When they found Carbone
 in the meat truck,
@@ -6513,7 +6513,7 @@ it took them two days
 
 to thaw him out for the autopsy.
 
-[JIMMY LAUGHING]
+(JIMMY LAUGHING)
 
 Still, I never saw Jimmy so happy.
 
@@ -6635,7 +6635,7 @@ And how.
 Pikes Peak was a ( … )ing
 pimple then, wasn't it?
 
-[BOTH LAUGH]
+(BOTH LAUGH)
 
 As far as Jimmy was concerned,
 with Tommy being made,
@@ -6647,7 +6647,7 @@ one of our own as a member.
 
 Oh, n--
 
-[GUNSHOT]
+(GUNSHOT)
 
 Yeah? Who's this?
 
@@ -6685,7 +6685,7 @@ I knew it.
 I can't ( … )in' believe it.
 I can't ( … )ing--
 
-[CRYING]
+(CRYING)
 
 The ( … )--
 
@@ -6699,11 +6699,11 @@ Mother-- Mother( … )--
 
 Mother( … )er!
 
-[TELEPHONE BOOTH CRASHES]
+(TELEPHONE BOOTH CRASHES)
 
-[HORN BLARING IN DISTANCE]
+(HORN BLARING IN DISTANCE)
 
-[CRYING]
+(CRYING)
 
 You all right?
 
@@ -6723,14 +6723,14 @@ We had to sit still and take it.
 It was among the Italians.
 It was real greaseball ( … ).
 
-[SOBBING]
+(SOBBING)
 
 They even shot Tommy in the face
 
 so his mother couldn't give him
 an open coffin at the funeral.
 
-[HELICOPTER APPROACHING]
+(HELICOPTER APPROACHING)
 
 ♪ You can climb a mountain ♪
 
@@ -6807,7 +6807,7 @@ I want it, I want it ♪
 ♪ I want it, I want it,
 I want it, I want it ♪
 
-[TIRES SCREECHING]
+(TIRES SCREECHING)
 
 Oh, my God.
 
@@ -7040,7 +7040,7 @@ that he was paranoid?
 
 Yeah. I need a hit.
 
-[IMITATES HELICOPTER]
+(IMITATES HELICOPTER)
 You wanna see helicopters?
 
 -Come on, I'll show you helicopters.
@@ -7060,7 +7060,7 @@ Also, I had to get to Sandy's house
 
 to give the package
 a whack with quinine.
--[TELEPHONE RINGING]
+-(TELEPHONE RINGING)
 
 Plus, I knew Sandy
 was gonna get on my ( … ).
@@ -7076,7 +7076,7 @@ ready for her trip.
 
 Yeah.
 
-SANDY [ON PHONE]:
+SANDY (ON PHONE):
 Hey, babe. When you comin' over?
 
 I'll be there in about an hour.
@@ -7094,11 +7094,11 @@ We'll talk about it later, okay?
 -Whatever. Bye.
 -Goodbye.
 
-[RINGS]
+(RINGS)
 
 Hello.
 
-HENRY [ON PHONE]:
+HENRY (ON PHONE):
 Hey, it's me. You ready?
 
 Yeah.
@@ -7192,7 +7192,7 @@ to Sandy's place,
 mix the stuff once,
 and then get back to the gravy.
 
-[COUGHS]
+(COUGHS)
 
 ♪ I'm a rolling stone ♪
 
@@ -7221,7 +7221,7 @@ Do you believe me? Do you believe me?
 ♪ I'm gonna bring back
 my second cousin ♪
 
-[CACKLES]
+(CACKLES)
 
 ( … )in' lying son of a ( … )!
 I hate you!
@@ -7284,7 +7284,7 @@ A hat?
 
 Relax, will you?
 
-[MUTTERING]
+(MUTTERING)
 
 The ( … ) is this?
 
@@ -7296,9 +7296,9 @@ or I'll blow your brains out.
 
 Shut the car off slowly.
 
-[ENGINE DIES]
+(ENGINE DIES)
 
-[NEARBY SIREN WAILING]
+(NEARBY SIREN WAILING)
 
 For a second, I thought I was dead.
 
@@ -7318,13 +7318,13 @@ I would've been dead.
 -OFFICER: Open the ( … )ing door!
 -Michael, lock the door!
 
-[BANGING ON DOOR]
+(BANGING ON DOOR)
 
 Michael!
 
-[POLICE YELLING]
+(POLICE YELLING)
 
-[GASPING, PANTING]
+(GASPING, PANTING)
 
 Okay. Okay.
 
@@ -7521,13 +7521,13 @@ Oh, my God!
 -Oh, God.
 -Henry.
 
-[BOTH SOBBING]
+(BOTH SOBBING)
 
 No! No! No.
 
 Why?
 
-[CAR HORN BLARING]
+(CAR HORN BLARING)
 
 HENRY: Paulie, I'm really sorry.
 
@@ -7620,7 +7620,7 @@ they been asking him?
 -Did he tell ya?
 -Jimmy, I don't know.
 
-[CHUCKLES]
+(CHUCKLES)
 
 I mean, I got my mind
 on so many other things.
@@ -7694,7 +7694,7 @@ Right on the corner.
 
 Yeah, it's over there. Right there.
 
-[SPEAKING INDISTINCTLY]
+(SPEAKING INDISTINCTLY)
 
 JIMMY: No. No, no, no. Hey, go ahead.
 It's right in there.
@@ -7709,7 +7709,7 @@ I gotta get home!
 
 I'll come back later.
 
-[TIRES SCREECHING]
+(TIRES SCREECHING)
 
 Karen? Karen?
 
@@ -7732,7 +7732,7 @@ It's o-- It's okay.
 -You all right?
 -Yeah.
 
-[CRYING]
+(CRYING)
 
 Shh.
 
@@ -8008,7 +8008,7 @@ we're gonna save his life,
 
 and we're gonna keep you out of jail.
 
-[SIGHS]
+(SIGHS)
 
 MAN: This morning, you told
 the members of this jury...
@@ -8166,7 +8166,7 @@ of my life like a shnook.
 SID VICIOUS: ♪ Regrets ♪
 
 -♪ I've had a few ♪
--[DOOR CLANGS SHUT]
+-(DOOR CLANGS SHUT)
 
 ♪ But then again ♪
 
@@ -8212,8 +8212,8 @@ SID VICIOUS: ♪ Regrets ♪
 
 ♪ And did it my way ♪
 
-[SONG ENDS]
+(SONG ENDS)
 
-[ERIC CLAPTON'S "LAYLA" PLAYS]
+(ERIC CLAPTON'S "LAYLA" PLAYS)
 
 -- Captions by VITAC --
