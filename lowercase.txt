@@ -717,7 +717,7 @@ Get him outta here.
 
 No. No, you don't understand!
 
-COP 1: No, you don't understand.
+No, you don't understand.
 Store's closed.
 
 (ITALIAN OPERA PLAYING)
