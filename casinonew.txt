@@ -251,8 +251,7 @@ MAN: Verify $200.
 *Somehow somebody's always
 looking the other way.*
 
-*Now, look at these guys.
-They look busy, right?*
+*Now, look at these guys. They look busy, right?*
 
 *They're counting money.
 Who wants to bother them?*
@@ -399,7 +398,7 @@ it is my pleasure to present you...
 
 *And when he was told to give*
 
-*a pension fund loan to Phillip Green,*
+*a pension fund loan to Phillip Green...*
 
 *...he did what he was told.*
 
