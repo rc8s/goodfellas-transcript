@@ -6149,13 +6149,12 @@ You were wandering around.
 
 Was I at that dinner?
 
-You were in the...
-you were in the building.
+You were in the... you were in the building.
 
 I was in the building?
 
-So you know damn well
-I was at that dinner, and you swore to me
+So you know (...) well I was
+at that dinner, and you swore to me
 
 that I would have a fair hearing
 at that dinner. Did you not?
@@ -6373,9 +6372,8 @@ You can ask me anything you want.
 STONE: What the hell is he doing
 on television anyway?
 
-He's on all night screaming
-
-about how he's gonna take his damn lawsuit
+He's on all night screaming about
+how he's gonna take his (...) lawsuit
 
 all the way to the Supreme Court.
 
