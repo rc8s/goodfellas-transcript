@@ -1,7 +1,7 @@
 MAN (narrating): When you love
-someone, you've gotta trust them.
+someone,
 
-There's no other way.
+you've gotta trust them. There's no other way.
 
 You've got to give them the key
 to everything that's yours.
@@ -35,9 +35,7 @@ I was given one of the biggest casinos
 
 in Las Vegas to run, the Tangiers,
 
-by the only kind of guys
-
-that can actually
+by the only kind of guys that can actually
 get you that kind of money--
 
 $62,700,000.
